@@ -24,8 +24,11 @@
         <h1 class="title-1">
           Good <span>Coffee</span> will always <br />Find the audience
         </h1>
-        <p>we provide a variety of uniques and Best Coffees</p>
+        <p>We provide a variety of unique and best coffees.</p>
         <button type="button">Shop Now</button>
+        
+        <!-- Image added here -->
+        <img src=""C:/Users/YourUsername/Downloads/your-cafe image.jpg"" alt="A cup of coffee" />
       </div>
     </div>
   </body>
